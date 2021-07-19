@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Srinivas Krishna S K
+- 👀 I’m interested in Programming and Development
+- 🌱 I’m currently pursuing Engineering in KIOT
